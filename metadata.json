@@ -1,0 +1,6 @@
+{
+  "name": "Yakıt Takip",
+  "description": "Bento tarzı modern tasarımıyla yakıt harcamalarınızı, araç tüketimlerini ve depo verilerini takip eden interaktif mobil uygulama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
